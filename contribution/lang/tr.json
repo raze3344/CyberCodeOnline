@@ -2817,7 +2817,7 @@
  	 	 	"vars": [
  	 	 	 	"playerName"
  	 	 	],
- 	 	 	"trans": "Sokak kredisi vermek",
+ 	 	 	"trans": "Sokak kredisi ver",
  	 	 	"eng": "Give street cred"
  	 	}
  	},
@@ -10285,7 +10285,7 @@
  	 	 	 	"skipTime",
  	 	 	 	"credButton"
  	 	 	],
- 	 	 	"trans": "${playerName} Global Time Skip'i kullandı, şu anda AFK görevini gerçekleştiren tüm çevrimiçi oyuncular (${playerCount} oyuncular) otomatik olarak ${skipTime} dakika sürecek. Efsaneye biraz krediler mi verin? ${credButton}",
+ 	 	 	"trans": "${playerName} Global Time Skip'i kullandı, şu anda AFK görevini gerçekleştiren tüm çevrimiçi oyuncular (${playerCount} oyuncular) otomatik olarak ${skipTime} dakika zaman atlayacak. Efsaneye biraz kredi mi versek? ${credButton}",
  	 	 	"eng": "${playerName} has used Global Time Skip, all online players currently performing AFK task (${playerCount} players) will automatically time skip by ${skipTime} minutes. Give the legend some creds? ${credButton}"
  	 	}
  	}
